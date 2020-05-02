@@ -1,0 +1,34 @@
+author: UnioDex
+main: me.UnioDex.UnioGirisLobi3.Main
+name: UnioGirisLobi
+version: 3.0
+
+depend: [ProtocolLib, AuthMe, TitleAPI]
+
+commands:
+  hub:
+    description: Aciklama
+  lobi:
+    description: Aciklama
+  lobby:
+    description: Aciklama
+  hg:
+    description: Aciklama
+  sg:
+    description: Aciklama
+  survivalgames:
+    description: Aciklama
+  hungergames:
+    description: Aciklama
+  kitpvp:
+    description: Aciklama
+  hackpvp:
+    description: Aciklama
+  factions:
+    description: Aciklama
+  skyblock:
+    description: Aciklama
+  skyblock2:
+    description: Aciklama
+  asitadasi:
+    description: Aciklama

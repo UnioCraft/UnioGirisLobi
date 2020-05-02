@@ -1,0 +1,24 @@
+database:
+  # Check that options in your AuthMe config. They must be same.
+  # Your database address (Usually: localhost)
+  ip: 127.0.0.1
+  # Database port (Default: 3306)
+  port: 3306
+  # Database name
+  dbname: database
+  # MySQL Username
+  user: user
+  # MySQL Password
+  pass: password
+  # AuthMe Table (Default: authme)
+  table: authme
+  # Authme Username Column (Default: realname)
+  # If you are using older AuthMe versions change it with 'username'.
+  usernameColumn: realname
+  
+UstBaslik: '&e&lUnioCraft''a Hoşgeldin &d&l%player%!'
+AltBaslik: '&b&lGiriş yapmak için /login <şifre> komutunu kullan.'
+GirisSonrasiUstBaslik: '&e&lBaşarıyla giriş yaptın!'
+GirisSonrasiAltBaslik: '&e&lİyi eğlenceler! &b&lLobiye yönlendiriliyorsun... '
+
+serverAfterLogin: "Lobi1"
